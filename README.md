@@ -1,6 +1,6 @@
 # Ontology Mapping Exercise
 
-This repository is a programming exercise whose aim it is to map ontology terms/id when given an existing ontology file. Documentation will exist in this README, along with in a Jupyter Notebook.  
+This repository is a programming exercise whose aim it is to map ontology terms/id when given an existing ontology file. Documentation will exist in this README, and a Jupyter Notebook within the folder `/documentation/`.  
 
 ### Using the package `rdfpandas` 
 
