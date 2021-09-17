@@ -1,0 +1,81 @@
+,concept,label,OLS_Mappings,OXO_Mappings
+0,DOID:4159,skin cancer,MONDO_0002898,MeSH:D012878; EFO:0004198
+1,DOID:13168,prepuce cancer,MONDO_0001653,No result
+2,DOID:8923,skin melanoma,MONDO_0005208; EFO_0000389,MeSH:C562393; EFO:0000389
+3,DOID:6367,acral lentiginous melanoma,MONDO_0003865,No result
+4,DOID:10047,nodular malignant melanoma,MONDO_0000930; EFO_0008515,No result
+5,DOID:10054,skin amelanotic melanoma,MONDO_0005208; EFO_0002894,No result
+6,DOID:10044,balloon cell malignant melanoma,MONDO_0000929,No result
+7,DOID:10040,malignant eyelid melanoma,No result,No result
+8,DOID:3451,skin carcinoma,MONDO_0002656; EFO_0009259,No result
+9,DOID:4871,cutaneous adenocystic carcinoma,MONDO_0003180,No result
+10,DOID:3450,cutaneous Paget's disease,EFO_1000249,No result
+11,DOID:6425,eyelid carcinoma,MONDO_0003876,No result
+12,DOID:3965,Merkel cell carcinoma,EFO_1001471,No result
+13,DOID:2513,basal cell carcinoma,MONDO_0020804; EFO_0004193,No result
+14,DOID:4300,superficial basal cell carcinoma,MONDO_0002954,No result
+15,DOID:4304,signet ring basal cell carcinoma,MONDO_0002958,No result
+16,DOID:4303,sarcomatoid basal cell carcinoma,MONDO_0002957,No result
+17,DOID:4302,cystic basal cell carcinoma,MONDO_0002956,No result
+18,DOID:4301,vulva basal cell carcinoma,MONDO_0002955,No result
+19,DOID:4283,anal margin basal cell carcinoma,MONDO_0002940,No result
+20,DOID:4295,follicular basal cell carcinoma,MONDO_0002952; http://www.orpha.net/ORDO/Orphanet_79459,No result
+21,DOID:4282,pigmented basal cell carcinoma,MONDO_0002939,No result
+22,DOID:4294,adenoid basal cell carcinoma,MONDO_0002951,No result
+23,DOID:4281,metatypical basal cell carcinoma,MONDO_0002938; EFO_1000529,No result
+24,DOID:4293,clear cell basal cell carcinoma,MONDO_0002950,No result
+25,DOID:4280,nodular basal cell carcinoma,MONDO_0002937,No result
+26,DOID:4292,morpheaform basal cell carcinoma,MONDO_0002949,No result
+27,DOID:4291,fibroepithelial basal cell carcinoma,MONDO_0002948,No result
+28,DOID:4290,adamantinoid basal cell epithelioma,MONDO_0002947,No result
+29,DOID:4279,infundibulocystic basal cell carcinoma,MONDO_0011465,No result
+30,DOID:4278,scrotum basal cell carcinoma,MONDO_0002936,No result
+31,DOID:5063,basosquamous carcinoma,MONDO_0003264; EFO_1000529,No result
+32,DOID:4289,micronodular basal cell carcinoma,MONDO_0002945,No result
+33,DOID:4287,external ear basal cell carcinoma,MONDO_0002943,No result
+34,DOID:4299,infiltrative basal cell carcinoma,MONDO_0002953,No result
+35,DOID:4286,sebaceous basal cell carcinoma,MONDO_0002942,No result
+36,DOID:5376,skin pilomatrix carcinoma,MONDO_0003414,No result
+37,DOID:3151,skin squamous cell carcinoma,MONDO_0002529,No result
+38,DOID:3149,keratoacanthoma,MONDO_0002527,MeSH:D007636; 
+39,DOID:5585,Ferguson-Smith tumor,http://www.orpha.net/ORDO/Orphanet_65748,No result
+40,DOID:5536,sarcomatoid squamous cell skin carcinoma,MONDO_0003499,No result
+41,DOID:8288,clear cell squamous cell skin carcinoma,MONDO_0004523,No result
+42,DOID:8122,pseudovascular skin squamous cell carcinoma,MONDO_0004469,No result
+43,DOID:3751,plantar verrucous skin carcinoma,MONDO_0002765,No result
+44,DOID:7643,acantholytic squamous cell skin carcinoma,MONDO_0004316,No result
+45,DOID:7039,Borst-Jadassohn intraepidermal carcinoma,MONDO_0004083,No result
+46,DOID:6944,vulvar seborrheic keratosis,MONDO_0006622; EFO_1000779,No result
+47,DOID:6943,vulvar inverted follicular keratosis,MONDO_0006621; EFO_1000778,No result
+48,DOID:4840,sebaceous carcinoma,MONDO_0002942; EFO_1001171,No result
+49,DOID:4839,sebaceous adenocarcinoma,MONDO_0006962; EFO_1001171,MeSH:D018266; EFO:1001171
+50,DOID:2687,skin sarcoma,MONDO_0006414; EFO_1000531,No result
+51,DOID:5712,cutaneous liposarcoma,MONDO_0003600,No result
+52,DOID:4517,skin angiosarcoma,MONDO_0003029,No result
+53,DOID:5273,cutaneous leiomyosarcoma,MONDO_0003362,No result
+54,DOID:2430,skin glomus tumor,MONDO_0002295,No result
+55,DOID:1243,labia minora cancer,MONDO_0001526,No result
+56,DOID:1293,labia minora carcinoma,MONDO_0001602,No result
+57,DOID:7049,basaloid squamous cell skin carcinoma,No result,No result
+58,DOID:5042,malignant granular cell myoblastoma,No result,No result
+59,DOID:13691,dermoid cyst of skin,MONDO_0001778,No result
+60,DOID:5274,malignant dermis tumor,MONDO_0003363,No result
+61,DOID:1906,malignant skin fibrous histiocytoma,EFO_1000212,No result
+62,DOID:7639,malignant granular cell skin tumor,MONDO_0004314,No result
+63,DOID:2095,sweat gland cancer,MONDO_0002206,No result
+64,DOID:5667,sweat gland carcinoma,MONDO_0005524; EFO_0005591,No result
+65,DOID:5590,aggressive digital papillary adenocarcinoma,MONDO_0003530,No result
+66,DOID:5570,malignant acrospiroma,No result,No result
+67,DOID:4921,eccrine sweat gland cancer,MONDO_0005506; EFO_0005553,No result
+68,DOID:7960,malignant spiradenoma,MONDO_0004412,No result
+69,DOID:5569,malignant syringoma,MONDO_0003519,No result
+70,DOID:7566,eccrine porocarcinoma,MONDO_0006189; EFO_1000229,No result
+71,DOID:4920,eccrine adenocarcinoma,MONDO_0024245,No result
+72,DOID:5591,eccrine papillary adenocarcinoma,No result,No result
+73,DOID:4934,apocrine sweat gland cancer,MONDO_0003215,No result
+74,DOID:4933,apocrine adenocarcinoma,MONDO_0003214,No result
+75,DOID:6446,ceruminous adenocarcinoma,No result,No result
+76,DOID:4284,anal margin carcinoma,MONDO_0002941,No result
+77,DOID:7708,perianal skin Paget's disease,No result,No result
+78,DOID:12239,anal margin squamous cell carcinoma,MONDO_0001470,No result
+79,DOID:13389,labia majora carcinoma,MONDO_0001702,No result
